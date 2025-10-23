@@ -1,0 +1,2 @@
+
+- Existen muchas bases de datos de código abierto, como AbuseIPDB y Cisco Talos Intelligence, donde se puede realizar una comprobación de reputación y ubicación de la dirección IP. La mayoría de los analistas de seguridad utilizan estas herramientas para ayudarlos con las investigaciones de alertas. También puede hacer que Internet sea más seguro informando sobre las direcciones IP maliciosas, por ejemplo, en AbuseIPDB.
